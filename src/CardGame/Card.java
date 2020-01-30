@@ -1,3 +1,7 @@
+/*
+ * Author: Sukhdev Banwait
+ */
+
 package CardGame;
 
 public class Card {
