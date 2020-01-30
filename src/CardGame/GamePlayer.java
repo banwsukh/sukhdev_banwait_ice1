@@ -1,5 +1,5 @@
 /*
- * Author: Sukhdev Banwait
+ * Author: Sukhdev S Banwait
  */
 package CardGame;
 
