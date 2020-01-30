@@ -15,6 +15,8 @@ public class GamePlayer {
                     System.out.println(c.getValue() + " of " + c.getSuit());
                 }
                // System.out.println(ch.cards); show what happens when there is no toString()
-	}
+               
+               System.out.println(Card.getJoker());
+        }
 
 }
